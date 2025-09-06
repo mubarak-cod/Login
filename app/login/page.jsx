@@ -47,7 +47,7 @@ export default function LoginPage() {
 
          
           <p className="text-blue-600 text-sm mb-6 cursor-pointer hover:underline">
-            Forgot your username?
+            {/* Forgot your username? */}
           </p>
 
          
